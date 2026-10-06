@@ -1,0 +1,6 @@
+# List of Libraries we will/might need for python
+-pylogix
+-pandas
+-
+-
+-
