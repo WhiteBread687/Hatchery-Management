@@ -218,3 +218,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Hatchery Management Project Stuff
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# Environment variables and secrets
+.env.*
+!.env.example
+
+# Local data and logs
+logs/
+data/local/
+data/temp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
